@@ -20,3 +20,6 @@ src/
 1. Clone the repository.
 2. Open the project in your development environment.
 3. Open the login page in a browser.
+## Authentication
+
+The project provides a simple login functionality for user authentication.
